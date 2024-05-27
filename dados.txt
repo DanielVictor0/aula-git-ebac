@@ -1,6 +1,6 @@
 Dados do aluno
 
--Primeiro Nome: Victor 
+-Primeiro Nome: Víctor 
 -Profissão: Tratorista 
 -Cidade: Sao Francisco de Sales
 -O que faz nas horas vaga: Estudo 
